@@ -489,6 +489,7 @@
 				5B8E9B5A17A7236B001D5654 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B8E9B5B17A7236B001D5654 /* Build configuration list for PBXNativeTarget "Martin_TabsTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +498,7 @@
 				5B8E9B5D17A7236B001D5654 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
